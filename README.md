@@ -25,7 +25,7 @@
 
 1ª Clone este repositório
 
-git clone https://github.com/devjorgesousa/player.git
+git clone https://github.com/dev7jorge/player_musica.git
 
 2ª Acesse a pasta do projeto no Visual Studio Code após descompactar o arquivo player-main.zip
 
